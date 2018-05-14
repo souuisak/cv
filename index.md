@@ -2,6 +2,8 @@
 layout: cv
 title: Ismail KABOUBI
 ---
+
+<img src="./media/images/ismail.jpg" alt="ismail" class="me" height="300" width="300">
 # Ismail KABOUBI
 * ✗ ⎈ Certified Kubernetes Administrator ⎈ 
 * ✗ ⎈ Certified Kubernetes Application Developer ⎈
