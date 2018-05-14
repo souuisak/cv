@@ -3,13 +3,27 @@
 <head>
   <meta charset=utf-8 />
   <title> {% if page.title %} {{ page.title }} | {% endif %} Resume</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
   <link href="media/cv-screen.css" type="text/css" rel="stylesheet" media="screen">
   <link href="media/cv-print.css" type="text/css" rel="stylesheet" media="print">
 
 </head>
 <body>
   <div id="main">
-    <div id="content">
+      <div class="image">
+          <img src="./media/images/ismail.jpg" alt="ismail" class="me">
+          
+          <!-- Add icon library -->
+          
+          <div class="social">
+            <!-- Add font awesome icons -->
+            <a target="_blank" href="https://github.com/smileisak" class="fa fa-github"></a>
+            <a target="_blank" href="https://twitter.com/SmileIsak" class="fa fa-twitter"></a>
+            <a target="_blank" href="https://www.linkedin.com/in/ismail-kaboubi/" class="fa fa-linkedin"></a>
+          </div>
+      </div>
+    <div id="content" class="content">
     {{ content }}
     </div>
   </div>

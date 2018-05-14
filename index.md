@@ -2,16 +2,14 @@
 layout: cv
 title: Ismail KABOUBI
 ---
-
-<img src="./media/images/ismail.jpg" alt="ismail" class="me" height="300" width="300">
 # Ismail KABOUBI
 * ✗ ⎈ Certified Kubernetes Administrator ⎈ 
 * ✗ ⎈ Certified Kubernetes Application Developer ⎈
 * ✗ DevOps Engineer @Smile
 * ✗ Python Developer, Start Learning Golang
 <div id="webaddress">
-<a href="ikaboubi@gmail.com">ikaboubi@gmail.com</a>
-| <a href="https://about.me/smileisak"> about me</a>
+<a target="_blank"  href="ikaboubi@gmail.com">ikaboubi@gmail.com</a>
+| <a target="_blank"  href="https://about.me/smileisak"> about me</a>
 </div>
 
 
@@ -40,19 +38,23 @@ Thanks to these experiences i have:
 ## Education
 
 `October 2015`
+
 __Obtaining the National Engineering Degree in Computer Networks and Telecomunications__
 - Tunis - INSAT, National Institute of Applied Sciences and Technology.
 
 
 `2012-2015`
+
 __Engineering studies in Computer Networks and Telecommunications specialized in Information System's Security__
 - Tunis - INSAT, National Institute of Applied Sciences and Technology.
 
 `2010-2012`
+
 __Preparatory Studies Entrance to the Engineering Program__
 - Tunis - INSAT, National Institute of Applied Sciences and Technology.
 
 `2009-2010`
+
 __Bachelor on Computer Science- with honors__
 - Tunis - Alaoui High School
 
@@ -83,12 +85,17 @@ During this missing i've touched all kind of public/private clouds, technologies
 
 
 ### Smile - Suez Smart Solution 
+<<<<<<< HEAD
 `Fev 2018 - September 2018`
+=======
+`Fev 2018 - Now`
+
+>>>>>>> css fixes and some social media buttons
 __As a DevOps Tools Engineer (Kubernetes Technical Expert)__
 
 During this mission, i've the responsability as a DevOps Tools Engineer of these two Plateforms:
 
-* ✗ __DigitalCity Saint Etienne__ : <a href="https://data.saint-etienne-metropole.fr/login">Access Platform</a> 
+* ✗ __DigitalCity Saint Etienne__ : <a target="_blank"  href="https://data.saint-etienne-metropole.fr/login">Access Platform</a> 
 * ✗ __SmartCoach: Suez Internal Project__
 
 We've used a various technologies :
@@ -109,6 +116,7 @@ We've used a various technologies :
 Kubernetes is deployed using AKS service of Microsoft Azure.
 ### Smile - Société Générale
 `Nov 2017-Jan 2018`
+
 __As a DevOps Tools Engineer (Openshift Technical Expert)__
 * ✗ Put in place an API Management platform on top of an Openshift cluster.
 * ✗ Create Dockerfiles required for WSO2 compononts.
@@ -134,6 +142,7 @@ Technical Environement:
 
 ### Cy-Play
 `Sep 2015-May 2017`
+
 __As a DevOps Tools Engineer and Python Backend Developer__
 
 * ✗ Worked within the Cloud for integration processes.
@@ -152,13 +161,13 @@ Technical Environement:
 
 Working on a Kubernetes Whitepaper for Smile OpenSource Solution. 
 
-For more details about  <a href="https://www.smile.eu/fr/publications/liste-livres-blancs">Smile Open Source Whitepapers.</a>
+For more details about  <a target="_blank"  href="https://www.smile.eu/fr/publications/liste-livres-blancs">Smile Open Source Whitepapers.</a>
 
 ## Github Projects
 
 Actively working on Helm Charts. A Kubernetes Projects that helps to package, publish and install k8s manifests efficiently and easily.
 
-<a href="https://github.com/smileisak">My Github Account.</a>
+<a target="_blank"  href="https://github.com/smileisak">My Github Account.</a>
 
 ## Certifications
 
@@ -170,7 +179,7 @@ Actively working on Helm Charts. A Kubernetes Projects that helps to package, pu
 Certified Kubernetes Administrator
 * License: CKA-1700-0205-0100
 
-Click <a href="https://training.linuxfoundation.org/certification/verify-certifications">here</a> to verify the certificate.
+Click <a target="_blank"  href="https://training.linuxfoundation.org/certification/verify-certifications">here</a> to verify the certificate.
 
 ### CKAD
 `May 2018`
@@ -180,7 +189,7 @@ Click <a href="https://training.linuxfoundation.org/certification/verify-certifi
 Certified Kubernetes Application Developer
 * License: CKAD-1800-0076-0100
 
-Click <a href="https://pbs.twimg.com/media/DcqRrFmWkAAUX1G.jpg:large">here</a> to see certificate.
+Click <a target="_blank"  href="https://pbs.twimg.com/media/DcqRrFmWkAAUX1G.jpg:large">here</a> to see certificate.
 ### DTSP
 
 `Mar 2013`
@@ -189,7 +198,7 @@ Click <a href="https://pbs.twimg.com/media/DcqRrFmWkAAUX1G.jpg:large">here</a> t
 
 Docker Technical Sales Professional 
 
-Click <a href="https://training.docker.com/award/certification/9639f321-eadb-3b70-ba1a-4a2806c2317e">here</a> to see certificate.
+Click <a target="_blank"  href="https://training.docker.com/award/certification/9639f321-eadb-3b70-ba1a-4a2806c2317e">here</a> to see certificate.
 
 ### LPIC 1
 
@@ -208,23 +217,23 @@ Linux Professional Institue Certification Level 1
 Introduction to Kubernetes by Linux Foundation.
 
 Present License c0199f62b09946f88a7a8571a551cd97
-Click <a href="https://courses.edx.org/certificates/c0199f62b09946f88a7a8571a551cd97">here</a> to see certificate.
+Click <a target="_blank"  href="https://courses.edx.org/certificates/c0199f62b09946f88a7a8571a551cd97">here</a> to see certificate.
 
 ### Linux Academy
 `May 2017`
 
 DevOps Essentials.->
-<a href="https://linuxacademy.com/profile/u/cert/id/75252">see certificate</a>.
+<a target="_blank"  href="https://linuxacademy.com/profile/u/cert/id/75252">see certificate</a>.
 
 ### Coursera
 `Feb 2016`
 
 Full Stack Web Developement Specialization
 * ✗ HTML, CSS and JavaScript. ->
-<a href="https://courses.edx.org/certificates/c0199f62b09946f88a7a8571a551cd97">see certificate</a>.
+<a target="_blank"  href="https://courses.edx.org/certificates/c0199f62b09946f88a7a8571a551cd97">see certificate</a>.
 * ✗ Front-End Web UI Frameworks and Tools. ->
-<a href="https://www.coursera.org/account/accomplishments/verify/UUQQMZ8GCZ9S">see certificate</a>.
+<a target="_blank"  href="https://www.coursera.org/account/accomplishments/verify/UUQQMZ8GCZ9S">see certificate</a>.
 * ✗ Front-End JavaScript Frameworks: AngularJS.->
-<a href="https://www.coursera.org/account/accomplishments/verify/88CQMTZWGKEK">see certificate</a>.
+<a target="_blank"  href="https://www.coursera.org/account/accomplishments/verify/88CQMTZWGKEK">see certificate</a>.
 * ✗ Multiplatform Mobile App Development with Web Technologies. ->
-<a href="https://www.coursera.org/account/accomplishments/verify/4YX6R5G3K7XP">see certificate</a>.
+<a target="_blank"  href="https://www.coursera.org/account/accomplishments/verify/4YX6R5G3K7XP">see certificate</a>.
