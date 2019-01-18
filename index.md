@@ -56,8 +56,32 @@ __Bachelor on Computer Science- with honors__
 
 
 ## Experience
+
+### Smile - Renault AITS
+`September 2018 - Now`
+__As a DevOps Tools Engineer (Kubernetes Technical Expert)__
+
+#### Mission 1: Kubernetes On Openstack
+
+This mission consists of choosing the right solution for Renault to deliver the same Kubernetes service level as public cloud providers. We have PoCed during this exercice:
+
+* ✗ <a href="https://pivotal.io/platform/pivotal-container-service">Pivotal Kubernetes Service</a> 
+* ✗ <a href="https://mesosphere.com/product/">Mesosphere DC OS</a> 
+* ✗ <a href="https://platform9.com/">Platform9</a> 
+
+#### Mission 2: Cloud Transformation
+
+In a few years, Renault AITS will stop its 2 Datacenters. Strategy is changed to public cloud first approch. The context of this mission is:
+
+* ✗ Driving to migration process to public cloud providers for more than ~1000 applications.
+* ✗ Proposing and contributing on production ready Kubernetes architectures.
+* ✗ Assuring that all applications that will migrate respects Cloud Native approch.
+
+During this missing i've touched all kind of public/private clouds, technologies and programming languages.
+
+
 ### Smile - Suez Smart Solution 
-`Fev 2018 - Now`
+`Fev 2018 - September 2018`
 __As a DevOps Tools Engineer (Kubernetes Technical Expert)__
 
 During this mission, i've the responsability as a DevOps Tools Engineer of these two Plateforms:
