@@ -85,12 +85,7 @@ During this missing i've touched all kind of public/private clouds, technologies
 
 
 ### Smile - Suez Smart Solution 
-<<<<<<< HEAD
 `Fev 2018 - September 2018`
-=======
-`Fev 2018 - Now`
-
->>>>>>> css fixes and some social media buttons
 __As a DevOps Tools Engineer (Kubernetes Technical Expert)__
 
 During this mission, i've the responsability as a DevOps Tools Engineer of these two Plateforms:
