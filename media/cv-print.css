@@ -71,16 +71,13 @@ p {
 
 code {
 	font: normal normal;
-	font-size: 60%;
+	font-size: 100%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
 	color: #ccc;
 }
 
-p code {
-	position: absolute;
-	left: -11%;
-}
+
 
 
 ul { 

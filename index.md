@@ -1,236 +1,117 @@
 ---
 layout: cv
-title: Ismail KABOUBI
+title: Soumaya KEBAILI
 ---
-# Ismail KABOUBI
-* ✗ ⎈ Certified Kubernetes Administrator ⎈ 
-* ✗ ⎈ Certified Kubernetes Application Developer ⎈
-* ✗ DevOps Engineer @Smile
-* ✗ Python Developer, Start Learning Golang
+# Soumaya KEBAILI
+* Développeur Expérimenté .Net Full Stack et Angular.
+
+
 <div id="webaddress">
-<a target="_blank"  href="ikaboubi@gmail.com">ikaboubi@gmail.com</a>
-| <a target="_blank"  href="https://about.me/smileisak"> about me</a>
+<a target="_blank"  href="kebaili.soumaya@gmail.com">kebaili.soumaya@gmail.com</a>
 </div>
 
 
-## Currently
-
-Today working as DevOps/SRE/Backend Engineer at Smile Open Source Solutions. Certified Kubernetes Administrator and Application Developer, experienced also with cloud platforms like Amazon Web Services or Google Cloud Platform. Putting in place platforms for automating deployment, scaling, and operations of application containers across clusters of hosts using Google's Kubernetes / Docker / rkt / coreos and bunch of other DevOps tools.
-
-Privously at Cy-Play, experienced with delivering multi-tenant applications (REST API) that can handle a huge number of customers with the same code base, with some Design patterns, and best practices approches, this became possible.
-
-Thanks to these experiences i have:
-
-* ✗ Experienced with Interpreted Languages like Python
-* ✗ Experienced with REST API's
-* ✗ Built a strong use of Shell scripting languages including BASH for Linux and Mac platforms 
-* ✗ Facility with development methodologies including Agile
-* ✗ Extremely knowledgeable about Django/Django REST Framework using TDD approche.
-* ✗ Built some tools to accelerate development
-* ✗ Experienced with CICD piplines in a containerized enviroments.
-
-## Specialized in
-
-* ✗ Kubernetes administration and application developement and integration.
-* ✗ Actively participate to implement DevOps concepts.
-* ✗ Contribute to implement good software development practices: continuous integration (CI), continuous deployment (CD), static code analysis, test automation (TDD), etc
-
 ## Education
 
-`October 2015`
+`2010-2015`
 
-__Obtaining the National Engineering Degree in Computer Networks and Telecomunications__
-- Tunis - INSAT, National Institute of Applied Sciences and Technology.
+__Obtention du Diplôme national d'ingénieur en Génie Logiciel__
+- Tunis - INSAT, Institut National des Sciences Appliquées et de Technologies.
 
-
-`2012-2015`
-
-__Engineering studies in Computer Networks and Telecommunications specialized in Information System's Security__
-- Tunis - INSAT, National Institute of Applied Sciences and Technology.
-
-`2010-2012`
-
-__Preparatory Studies Entrance to the Engineering Program__
-- Tunis - INSAT, National Institute of Applied Sciences and Technology.
 
 `2009-2010`
 
-__Bachelor on Computer Science- with honors__
-- Tunis - Alaoui High School
+__Obtention du Diplôme de Baccalauréat__
+- Tunis - Lycée de rue de Marseille 
 
 
-## Experience
+## Expérience
 
-### Smile - Renault AITS
-`September 2018 - Now`
+### AMD Conseil - Natixis
 
-__As a DevOps Tools Engineer (Kubernetes Technical Expert)__
+`Janvier 2019 - Aujourd'hui `
 
-__Mission 1: Kubernetes On Openstack__
-
-This mission consists of choosing the right solution for Renault to deliver the same Kubernetes service level as public cloud providers. We have PoCed during this exercice:
-
-* ✗ <a href="https://pivotal.io/platform/pivotal-container-service">Pivotal Kubernetes Service</a> 
-* ✗ <a href="https://mesosphere.com/product/">Mesosphere DC OS</a> 
-* ✗ <a href="https://platform9.com/">Platform9</a> 
-
-__Mission 2: Cloud Transformation__
-
-In a few years, Renault AITS will stop its 2 Datacenters. Strategy is changed to public cloud first approch. The context of this mission is:
-
-* ✗ Driving to migration process to public cloud providers for more than ~1000 applications.
-* ✗ Proposing and contributing on production ready Kubernetes architectures.
-* ✗ Assuring that all applications that will migrate respects Cloud Native approch.
-
-During this missing i've touched all kind of public/private clouds, technologies and programming languages.
+__Développeur .Net Full Stack__
 
 
-### Smile - Suez Smart Solution 
-`Fev 2018 - September 2018`
+__Équipe Recherche__
 
-__As a DevOps Tools Engineer (Kubernetes Technical Expert)__
+Dans le cadre de la refonte du site web de la recherche de Natixis,
 
-During this mission, i've the responsability as a DevOps Tools Engineer of these two Plateforms:
+* ✗ Développement et mise en recette de Web API interne
+* ✗ Développement et mise en recette de la plateforme Web 
 
-* ✗ __DigitalCity Saint Etienne__ : <a target="_blank"  href="https://data.saint-etienne-metropole.fr/login">Access Platform</a> 
-* ✗ __SmartCoach: Suez Internal Project__
+Technologies: 
 
-We've used a various technologies :
-* ✗ Kubernetes as a Docker Orchestrator
-* ✗ Kafka
-* ✗ Databases:
-    * ✗ Mongodb
-    * ✗ Elasticsearch
-    * ✗ InfluxDB
-    * ✗ Casandra
-    * ✗ Percona MySQL
-    * ✗ PostgreSQL
-* ✗ API / API Management:
-    * ✗ .NET Core
-    * ✗ PHP Symfony
-    * ✗ Kong
+* ✗ __.NET Core__, __Entity Framework Core__ , __Angular 7__, __JWT__, Swagger, TFS Git, Visual Studio 2017, __SQL Server__ , SCRUM
 
-Kubernetes is deployed using AKS service of Microsoft Azure.
-### Smile - Société Générale
-`Nov 2017-Jan 2018`
 
-__As a DevOps Tools Engineer (Openshift Technical Expert)__
-* ✗ Put in place an API Management platform on top of an Openshift cluster.
-* ✗ Create Dockerfiles required for WSO2 compononts.
-* ✗ Automate the provisioning process to have a new WSO2 environement using Shell scripts.
-* ✗ Automate integartion of new API within Openshift Cluster using Openshift S2I and templates.
+`Mai 2017 - Décembre 2018`
 
-Technical Environement:
-* ✗ Openshift 3.6, Docker, Nexus, Docker Registries, Shell Scripting
+__Équipe PIMS__
 
-### Smile - BNP PariBas IRB
-`Jun 2017-Jan 2018`
+* ✗ Développement et mise en place d'une plateforme web RFS d'E-Trading de Swap de taux
+* ✗ Développement et mise en place de web services temps réels de récupération de prix et de passage de deal 
 
-__As a DevOps Tools Engineer (Kubernetes, Docker Technical Expert)__
+Technologies: 
 
-* ✗ Study the possibility to integrate Docker/Container in developpement process.
-* ✗ Put in place a CICD platform.
-* ✗ Integrate Docker to developement process using Docker Compose.
-* ✗ Provision new environements for developers within a Kubernetes cluster.
-* ✗ Put in place a ChatOps (mattermost) tool to facilitate communication between developers.
+* ✗ C#, Web API, __Angular JS__, Tibco, TFS, Visual Studio 2017, SQL Server, SCRUM
 
-Technical Environement:
-* ✗ Jenkins, Nexus, Github Entreprise, Ansible, Kubernetes, Docker, Nginx (as a reverse proxy), Nginx Ingress Controller, Mattermost ...
+`Octobre 2016- Mai 2017`
 
-### Cy-Play
-`Sep 2015-May 2017`
+__Équipe Transverse__
 
-__As a DevOps Tools Engineer and Python Backend Developer__
+* ✗ Développement, maintenance et mise en place de web service SOAP et REST utilisés par les différentes équipes de la DSI Global Market
+* ✗ Développement, maintenance et mise en place de différentes applications Web (CMS sur mesure, application de gestion d'utilisateurs et de droit d'accès, sites publics de Natixis)
 
-* ✗ Worked within the Cloud for integration processes.
-* ✗ Performed DevOps for Linux and Mac Platforms.
-* ✗ Focused on automation and integration.
-* ✗ Monitored developed applications and fixed bugs.
-* ✗ Wrote code and designed continual updates.
-* ✗ Completed load and performance testing of extremely complex systems.
-* ✗ Developed REST API's for Mobile apps 
-* ✗ Deployed multi-tenant platform using Docker/k8s/aws
+Technologies: 
 
-Technical Environement:
-* ✗ Django, Python, Amazon WebServices, SaaS, PaaS, IaaS, DevOps, Fabric, Django REST Framework, MongoDB PostgreSQL, Kubernetes, Docker, CoreOS, Jenkins, Elasticsearch, Kibana,, Fluentd.
+* ✗ C#, __ASP MVC__, Razor, Entity Framework, __WCF__ , __Web API__, TFS, Visaul Studio 2012, 2015, SQL Server
 
-## Publications
+### Infynia International
 
-Working on a Kubernetes Whitepaper for Smile OpenSource Solution. 
+`Septembre 2015 - Septembre 2016`
 
-For more details about  <a target="_blank"  href="https://www.smile.eu/fr/publications/liste-livres-blancs">Smile Open Source Whitepapers.</a>
+__Développeur .Net Full Stack__
+ 
+* ✗ Développement et maintenance de solution web sur mesure pour client final
+* ✗ Conception développement et mise en place d'application mobile 
 
-## Github Projects
+Technologies: 
 
-Actively working on Helm Charts. A Kubernetes Projects that helps to package, publish and install k8s manifests efficiently and easily.
+* ✗ C#, ASP NET, ASP MVC4, Entity Framework, SQL, Ionic, Angular JS, SQLite
 
-<a target="_blank"  href="https://github.com/smileisak">My Github Account.</a>
+### Groupe HLi
 
+`Février 2015 - Juin 2015`
+
+__Stagiaire - Projet de fin d'études__
+
+* ✗ Étude, conception et développement d'une application web de compte rendu d'activité
+
+Technologies: 
+
+* ✗ ASP.net, MVC5.2, Razor, Bootstrap, JQuery, SQL Server 2012, TFS 2012
+
+<br /><br />
 ## Certifications
 
-### CKA
-`Dec 2017`
-
-<img src="./media/images/logo_cka.png" alt="cka" height="100" width="100">
-
-Certified Kubernetes Administrator
-* License: CKA-1700-0205-0100
-
-Click <a target="_blank"  href="https://training.linuxfoundation.org/certification/verify-certifications">here</a> to verify the certificate.
-
-### CKAD
-`May 2018`
-
-<img src="./media/images/logo_ckad.png" alt="ckad" height="100" width="100">
-
-Certified Kubernetes Application Developer
-* License: CKAD-1800-0076-0100
-
-Click <a target="_blank"  href="https://pbs.twimg.com/media/DcqRrFmWkAAUX1G.jpg:large">here</a> to see certificate.
-### DTSP
-
-`Mar 2013`
-
-<img src="./media/images/docker.png" alt="lpic1" height="100" width="110">
-
-Docker Technical Sales Professional 
-
-Click <a target="_blank"  href="https://training.docker.com/award/certification/9639f321-eadb-3b70-ba1a-4a2806c2317e">here</a> to see certificate.
-
-### LPIC 1
-
-`Mar 2013`
-
-<img src="./media/images/lpic1.png" alt="lpic1" height="100" width="100">
-
-Linux Professional Institue Certification Level 1
-* License: LPI000280264
-
-## MOOC
-
-### EDX
-
-`Oct 2017`
-Introduction to Kubernetes by Linux Foundation.
-
-Present License c0199f62b09946f88a7a8571a551cd97
-Click <a target="_blank"  href="https://courses.edx.org/certificates/c0199f62b09946f88a7a8571a551cd97">here</a> to see certificate.
-
-### Linux Academy
-`May 2017`
-
-DevOps Essentials.->
-<a target="_blank"  href="https://linuxacademy.com/profile/u/cert/id/75252">see certificate</a>.
-
 ### Coursera
-`Feb 2016`
+`Février 2016`
 
 Full Stack Web Developement Specialization
-* ✗ HTML, CSS and JavaScript. ->
-<a target="_blank"  href="https://courses.edx.org/certificates/c0199f62b09946f88a7a8571a551cd97">see certificate</a>.
-* ✗ Front-End Web UI Frameworks and Tools. ->
-<a target="_blank"  href="https://www.coursera.org/account/accomplishments/verify/UUQQMZ8GCZ9S">see certificate</a>.
-* ✗ Front-End JavaScript Frameworks: AngularJS.->
-<a target="_blank"  href="https://www.coursera.org/account/accomplishments/verify/88CQMTZWGKEK">see certificate</a>.
-* ✗ Multiplatform Mobile App Development with Web Technologies. ->
-<a target="_blank"  href="https://www.coursera.org/account/accomplishments/verify/4YX6R5G3K7XP">see certificate</a>.
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/W5FQ69QQT7RF">HTML, CSS and JavaScript.</a>.
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/NKMSK2URE8NJ">Front-End Web UI Frameworks and Tools.</a>.
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/LQ9WKKYGKFBE">Front-End JavaScript Frameworks: AngularJS.</a>.
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/6KQTVMA9QJWW">Multiplatform Mobile App Development with Web Technologies.</a>.
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/RT5H63UBAQPR">Server-side Development with NodeJS.</a>.
+
+## Activité et associations
+
+### Securinets
+
+`septembre 2012 - avril 2014`
+
+ __Membre du club de sécurité Securinets__ 
+* ✗ Préparation et mise en place d'épreuve d'Ethical Hacking et de plateforme de CTF national
+* ✗ Animation de formation sur les techniques de recherche de faille et de sécurisation.
