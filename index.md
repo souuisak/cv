@@ -100,11 +100,11 @@ Technologies:
 `Février 2016`
 
 Full Stack Web Developement Specialization
-* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/W5FQ69QQT7RF">HTML, CSS and JavaScript.</a>.
-* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/NKMSK2URE8NJ">Front-End Web UI Frameworks and Tools.</a>.
-* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/LQ9WKKYGKFBE">Front-End JavaScript Frameworks: AngularJS.</a>.
-* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/6KQTVMA9QJWW">Multiplatform Mobile App Development with Web Technologies.</a>.
-* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/RT5H63UBAQPR">Server-side Development with NodeJS.</a>.
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/W5FQ69QQT7RF">HTML, CSS and JavaScript.</a>
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/NKMSK2URE8NJ">Front-End Web UI Frameworks and Tools.</a>
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/LQ9WKKYGKFBE">Front-End JavaScript Frameworks: AngularJS.</a>
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/6KQTVMA9QJWW">Multiplatform Mobile App Development with Web Technologies.</a>
+* ✗ <a target="_blank"  href="https://www.coursera.org/account/accomplishments/certificate/RT5H63UBAQPR">Server-side Development with NodeJS.</a>
 
 ## Activité et associations
 
