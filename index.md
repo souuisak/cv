@@ -63,6 +63,7 @@ __Équipe Transverse__
 
 * ✗ Développement, maintenance et mise en place de web service SOAP et REST utilisés par les différentes équipes de la DSI Global Market
 * ✗ Développement, maintenance et mise en place de différentes applications Web (CMS sur mesure, application de gestion d'utilisateurs et de droit d'accès, sites publics de Natixis)
+* ✗ Migration des applications web/web services suite à la migration des bases de données Sybase
 
 Technologies: 
 
@@ -92,8 +93,21 @@ __Stagiaire - Projet de fin d'études__
 Technologies: 
 
 * ✗ ASP.net, MVC5.2, Razor, Bootstrap, JQuery, SQL Server 2012, TFS 2012
+<br /><br /><br /><br /><br /><br />
 
-<br /><br />
+### Banque de l'Habitat
+
+`Juillet 2014`
+
+__Stagiaire__
+
+* ✗ Développent d'un module d'authentification, d’affectation et de vérification des certificats électronique ANCE des clients de la banque
+
+Technologies: 
+
+* ✗ C#, MVC 4, HTML, JavaScript, Enity Framework, SQL Server
+
+
 ## Certifications
 
 ### Coursera
