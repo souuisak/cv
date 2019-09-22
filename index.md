@@ -38,8 +38,8 @@ __Équipe Recherche__
 
 Dans le cadre de la refonte du site web de la recherche de Natixis,
 
-* ✗ Développement et mise en recette de Web API interne
-* ✗ Développement et mise en recette de la plateforme Web 
+* ✗ Développement et mise en production de Web API interne
+* ✗ Développement et mise en production de la plateforme Web 
 
 Technologies: 
 
