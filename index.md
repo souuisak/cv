@@ -36,7 +36,7 @@ __Développeur .Net Full Stack__
 
 __Équipe Recherche__
 
-Dans le cadre de la refonte du site web de la recherche de Natixis <a target="www.research.natixis.com">research.natixis.com</a>,
+Dans le cadre de la refonte du site web de la recherche de Natixis <a href="www.research.natixis.com" target="_blank">research.natixis.com</a>,
 
 * ✗ Développement et mise en production de Web API interne
 * ✗ Développement et mise en production de la plateforme Web 
